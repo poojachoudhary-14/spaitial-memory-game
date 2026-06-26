@@ -7,7 +7,7 @@ An immersive, retro-futuristic spatial-working memory trainer built using modern
 ## 🎮 Live Demo
 
 You can play the live, web-based version of the game directly in your browser here:  
-👉 **[Play CosmicRecall Here](https://poojachoudhary-14.github.io/spaital-memory-game/)**
+👉 **[Play CosmicRecall Here](https://poojachoudhary-14.github.io/spatial-memory-game/)**
 
 ---
 
